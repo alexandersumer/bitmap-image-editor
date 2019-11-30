@@ -1,10 +1,3 @@
-# Assignnment 1
-
-## Name and ID:
-
-* Name : ALEXANDER JONES
-* ID : U5956709
-
 ## Summary of programs:
 
 bmpedit is a simple program that applies simple edits to Windows BMP images.
